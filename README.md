@@ -1,14 +1,5 @@
 # CREATED BY 𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀
 
-<img alt=Support height="https://i.imgur.com/PT9ZVEf.jpg"> 
- 
-<p align="center">
- <a href="https://chat.whatsapp.com/Lk3Hn9QqbGJKYSlZMVpNp5" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
-</details>
-
 
  <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://i.imgur.com/P7guXg2.jpg" alt="Typing SVG" /></a>
@@ -18,6 +9,16 @@
 <h1 align="center"> GOJO-MD 
 </h1>
 <p align="center">  𝘽𝙔 𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀 
+
+
+<img alt=Support height="https://i.imgur.com/PT9ZVEf.jpg"> 
+ 
+<p align="center">
+ <a href="https://chat.whatsapp.com/Lk3Hn9QqbGJKYSlZMVpNp5" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+</details>
 
 # 
 **GOJO MD** whatsapp bot is,
