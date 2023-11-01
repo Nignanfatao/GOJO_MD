@@ -11,6 +11,7 @@
 <p align="center">  𝘽𝙔 𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀 
 
 
+
 <img alt=Support height="https://i.imgur.com/PT9ZVEf.jpg"> 
  
 <p align="center">
@@ -56,7 +57,7 @@ V0.1.1
  ## *TUTORIAL VIDEO HERE⬇️⬇️⬇️*
 
 <a align="left">
-  <a href="https://youtube.com/@technicalvibs1?si=q0fDzRNl2rgCpZGh">
+  <a href="https://youtube.com/@kenzo3146?si=baG-wR2A--MhhK57">
     <img alt=Support height="100" src="https://i.imgur.com/PT9ZVEf.jpg"> 
   </p>
     
@@ -71,6 +72,6 @@ V0.1.1
 
 ## Please brother🤧🥺🥺🥺 cofre me.!🌟
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/wasitech01v">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/tresorngal2">
   <img src="https://i.ibb.co/KNnhcvX/bmc-button.png" alt="Buy Me Coffee please" height="40" width="150" style="margin-left: 60px;">
 </a>
