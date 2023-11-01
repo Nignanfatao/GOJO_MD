@@ -10,17 +10,17 @@ global.email = 'sam@secktor.live'
 global.github = 'https://github.com/Toge123456/GOJO_MD'
 global.location = 'Sultanpur IN'
 global.gurl = 'https://instagram.com/' // add your username
-global.sudo = process.env.SUDO || '244935469526'
-global.devs = '244935469526';
+global.sudo = process.env.SUDO || '17245423663'
+global.devs = '17245423663';
 global.website = 'https://github.com/Itxxwasi/𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀' //wa.me/+17245423663
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://raw.githubusercontent.com/SecktorBot/Brandimages/main/logos/SocialLogo%201.png'
 module.exports = {
-  botname:   process.env.BOT_NAME === undefined ? '𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀' : process.env.BOT_NAME,
+  botname:   process.env.BOT_NAME === undefined ? 'GOJO_MD' : process.env.BOT_NAME,
   ownername: process.env.OWNER_NAME === undefined ? '𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀' : process.env.OWNER_NAME,
   sessionName:  process.env.SESSION_ID === undefined ? false : process.env.SESSION_ID,
-  author:  process.env.PACK_INFO.split(";")[0] === undefined ? 'DARK CREATOR' : process.env.PACK_INFO.split(";")[0],
+  author:  process.env.PACK_INFO.split(";")[0] === undefined ? '𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀' : process.env.PACK_INFO.split(";")[0],
   auto_read_status :  process.env.AUTO_READ_STATUS === undefined ? false : process.env.AUTO_READ_STATUS,
-  packname:  process.env.PACK_INFO.split(";")[1] === undefined ? 'BLAST-MD' : process.env.PACK_INFO.split(";")[1],
+  packname:  process.env.PACK_INFO.split(";")[1] === undefined ? 'GOJO_MD' : process.env.PACK_INFO.split(";")[1],
   autoreaction:  process.env.AUTO_REACTION  === undefined ? false : process.env.AUTO_REACTION ,
   antibadword :  process.env.ANTI_BAD_WORD === undefined ? 'nbwoed' : process.env.ANTI_BAD_WORD,
   alwaysonline:  process.env.ALWAYS_ONLINE === undefined ? false : process.env.ALWAYS_ONLINE,
