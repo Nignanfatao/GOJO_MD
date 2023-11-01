@@ -1,4 +1,4 @@
-# 🎯𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀
+# CREATED BY 𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀
 
 <img alt=Support height="https://i.imgur.com/PT9ZVEf.jpg"> 
  
@@ -11,7 +11,7 @@
 
 
  <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BBFDAFF&center=true&width=910&height=100&lines=I'am+𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀; Developped by 𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀; PUBLIC+BOT;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://i.imgur.com/P7guXg2.jpg" alt="Typing SVG" /></a>
   </p>
   <br>
 </p>
@@ -39,25 +39,10 @@ V0.1.1
 
 ## ```DEPLOY IN HEROKU```
 
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Itxxwasi/WASI_TECH_BOT&template=https://github.com/Itxxwasi/WASI_TECH_BOT.git)
-
-## ```DEPLOY IN REPLIT```
-
-<p align="center" >
-    <a href="https://repl.it/github/DENZO-UCHIWA/BLAST-MD">
-    <img src="https://repl.it/badge/github/quiec/whatsasena" width="170px" alt="Deploy on REPLIT" >
-    </a>
-</p>
-
-<p align="center" >
-    <br>
-    
-</p>
-
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Toge123456/GOJO_MD&template=https://github.com/Toge123456/GOJO_MD.git)
 
 
 ## ```❑🌟BIG THANKS FOR🌟``` [𝐌𝐘 𝐅𝐈𝐍𝐆𝐄𝐑𝐒 🙂)
-
 
 
 
