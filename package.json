@@ -9,7 +9,7 @@
     "start": "pm2 start lib/client.js --deep-monitoring --attach --name WASITECH",
     "stop": "pm2 stop BLACK-MD"
   },
-  "author": "WASI",
+  "author": "𝕋𝕆𝔾𝔼",
   "dependencies": {
     "soundcloud-downloader": "^1.0.0",
     "node-schedule": "^2.1.1",
