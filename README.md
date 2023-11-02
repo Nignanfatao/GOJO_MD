@@ -17,7 +17,7 @@
 
 1. Fork The Repo
     <br>
-<a href="https://github.com/Toge123456/GOJO_MD/tree/main/fork"><img title="GOJO_MD" src="https://img.shields.io/badge/FORK INRL-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/Toge123456/GOJO_MD/tree/main/fork"><img title="GOJO_MD" src="https://img.shields.io/badge/FORK GOJO_MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 2. Scan Qr
     <br>
