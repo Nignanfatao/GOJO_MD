@@ -1,7 +1,8 @@
-# CREATED BY 𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀
+## CREATED BY 𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀
 
+***
 
- <div align="center">
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://i.imgur.com/P7guXg2.jpg" alt="Typing SVG" /></a>
   </p>
   <br>
@@ -10,43 +11,52 @@
 </h1>
 <p align="center">  𝘽𝙔 𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀 
 
+----
+
+### SETUP
+
+1. Fork The Repo
+    <br>
+<a href="https://github.com/Toge123456/GOJO_MD/tree/main/fork"><img title="GOJO_MD" src="https://img.shields.io/badge/FORK INRL-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
+
+2. Scan Qr
+    <br>
+<a href="https://replit.com/@Itxxwasi/WASI-TECH-BOT"><img title="SCAN QR" src="https://img.shields.io/badge/SCAN QR CODE-h?color=black&style=for-the-badge&logo=msi"></a>
 
 
-<img alt=Support height="https://i.imgur.com/PT9ZVEf.jpg"> 
+
+### INRL-MD Deploy Methods
+
+-------
+
+#### Deploy To Heroku 
+
+<a href="https://heroku.com/deploy?template=https://github.com/Toge123456/GOJO_MD/tree/main"><img title="GOJO_MD Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
+
+
+---
+#### Deploy To Railway
+
+<a href="https://inrl-web.onrender.com/info/deploy/railway
+#### Deploy To Koyeb
+
+
+---
+#### Deploy To Replit
+
+<a href="https://repl.it/github/DENZO-UCHIWA/BLAST-MD"><img title="INRL-MD Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
+
+---
  
-<p align="center">
- <a href="https://chat.whatsapp.com/Lk3Hn9QqbGJKYSlZMVpNp5" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
-</details>
 
-# 
-**GOJO MD** whatsapp bot is,
-A very good bot that you can use in whatsapp. 
+ ### Support
 
-## [`Fork GOJO MD`](https://github.com/Toge123456/GOJO_MD/fork)
+SUPPORT GROUP
 
-V0.1.1
+<a href="https://chat.whatsapp.com/Lk3Hn9QqbGJKYSlZMVpNp5"><img alt="WhatsApp" src="https://camo.githubusercontent.com/2157131829ac512183ee8f8b6c6f803688a4cc66a2e686602844e80478401a7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2047726f75702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>
 
 
-## ``` ```
-
- [![Run on Repl.it](https://replit.com/@Itxxwasi/WASI-TECH-BOT)
- ** 
- 𝐂𝐋𝐈𝐂𝐊.𝐎𝐍 𝐓𝐇𝐈𝐒 𝐋𝐈𝐍𝐊 𝐅𝐎𝐑 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃 👇👇👇👇
- 
- https://replit.com/@Itxxwasi/WASI-TECH-BOT 
-
-
-## ```DEPLOY IN HEROKU```
-
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Toge123456/GOJO_MD&template=https://github.com/Toge123456/GOJO_MD.git)
-
-
-## ```❑🌟BIG THANKS FOR🌟``` [𝐌𝐘 𝐅𝐈𝐍𝐆𝐄𝐑𝐒 🙂)
-
-
+---
 
 </div>
 
@@ -75,3 +85,5 @@ V0.1.1
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/tresorngal2">
   <img src="https://i.ibb.co/KNnhcvX/bmc-button.png" alt="Buy Me Coffee please" height="40" width="150" style="margin-left: 60px;">
 </a>
+
+---
