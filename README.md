@@ -35,13 +35,6 @@
 
 
 ---
-#### Deploy To Railway
-
-<a href="https://inrl-web.onrender.com/info/deploy/railway
-#### Deploy To Koyeb
-
-
----
 #### Deploy To Replit
 
 <a href="https://repl.it/github/DENZO-UCHIWA/BLAST-MD"><img title="INRL-MD Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
