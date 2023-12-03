@@ -1,112 +1,120 @@
 {
-  "name": "GOJO_MD",
-  "description": "A Whatsapp bot built in NodeJs to make experience better\n\t if Any Problem :https://youtube.com/@kenzo3146?si=Ws5QRw863teq6N4z",
-  "logo": "https://i.imgur.com/mVpQClk.jpg",
-  "repository": "https://github.com/Toge123456/GOJO_MD/tree/main",
- "GOJO-MD", "keywords": ["whatsappbot", "GOJO_MD", "GOJO MD Wa bot", "GOJO_MD", "GOJOMdWhatsaooBot", "GOJOWaBot","GOJOMD","GOJO Md Whatsapp Bot","multi device"],
+  "name": "WASI TECH",
+  "description": "A Whatsapp md bot built in NodeJs to make experience better",
+  "logo": "https://telegra.ph/file/aad326f954d80af09a7d7.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "Wasi tech", "Secktor","Whatsapp bot","theme bot","multi device","baileys","Suhail md"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
-    "description": "Name of Bot Owner",    
-    "value": "𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀",
-    "required" :true
-  }, 
-  "HEROKU_API_KEY": {
-    "description": "Put Your Heroku Api Key Here",
-    "value": "",
-	  "required" :true 
-  },   
-  "HEROKU_APP_NAME": {
-    "description": "Put Your Heroku App Name Here",
-    "value": "",
-	 "required" :false
+  "description": "Name of Bot Owner",
+      "value": "WASITECH"
   },
+  "ALIVE_MESSAGE": {
+    "description": "Alive message for bot",
+     "required" :false
+    },
+    "AUTO_STATUS_SAVER": {
+      "description": "Automatically saves status of every person and sends in log number.",
+       "required" :false
+      },
+	"AUTO_READ_STATUS": {
+      "description": "Automatically read status of every person and sends in log number.",
+       "required" :false
+      },
+    "HEROKU_API_KEY": {
+    "description": "Put HEROKU API KEY",
+     "required"  :true
+    },
+ "HEROKU_APP_NAME": {
+    "description": "This field will be ignored. Heroku will generate a random app name.",
+    "required": "true"
+},
+   "THUMB_IMAGE": {
+    "description": "THUMBNAIL for bot.",
+     "value": "https://telegra.ph/file/aad326f954d80af09a7d7.jpg"
+    },
+    "ANTI_BAD_WORD": {
+    "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
+     "required" :false
+    },
+   "ANTILINK_VALUES": {
+    "description": "Put words for antilink",
+     "value": "chat.whatsapp.com",
+     "required" :false
+    },
+     "ANTILINK_ACTION": {
+    "description": "Put action for antilink",
+     "value": "remove",
+     "required" :false
+    },
   "LEVEL_UP_MESSAGE": {
     "description": "Fill the value true if you want bot send Level up message in chat.",
-    "required" :false,
-    "value": "true"
-  }, 
-  "WAPRESENCE": {
-    "description": "Fill the value: 'unavailable'(nothing) | 'available'(alwaysonline) | 'composing'(typing) | 'recording' | 'paused' ",
-    "required" :false,
-    "value": "unavailable"
-  },
-  "AUTO_READ_STATUS": {
-    "description": "Fill the value true if you want bot view your Statuses.",
-    "required" :false,
-    "value": "true"
-  }, 
-  "MSGS_IN_LOG": {
-    "description": "Fill the value true if you want to see Messages in Console.",
-    "required" :false,
-    "value": "false"
-  },
-  "READ_MESSAGE": {
+     "required" :false,
+     "value": "true"
+    },
+    "SUDO": {
+    "description": "PUT OWNER NUMBER NOTE:remove the + and must be in international form eg: 923192173398",
+     "required"  :false
+    },
+      "READ_MESSAGE": {
     "description": "Fill the value true if you want bot to read all messages.",
-    "required" :false,
-    "value": "false"
-  },
-  "DISABLE_PM": {
-    "description": "Disable bot in pm, Take it false if you wanna run bot in your pm",
-    "value": "false",
-    "required" :false
-  },
-  "ALWAYS_ONLINE": {
-    "description": "Take it 'true' if you wanna show Always Onlline",
-    "value": "false",
-    "required" :false
-  },
-  "PREFIX": {
-    "description": "Enter your desired prefix for bot.",
-    "value": "."
+     "required" :false,
+     "value": "false"
+    },
+   "DISABLE_PM": {
+    "description": "Disable bot in pm",
+     "required" :false
+    },
+      "PREFIX": {
+  "description": "Enter your desired prefix for bot.",
+      "value": "."
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-    "value": "17245423663"
+       "value": "923192173398"
   },
    "SESSION_ID": {
     "description": "Please put your SESSION_ID here"
   },
-  "OPENAI_API_KEY": {
+    "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com ",
-    "value": "",
-    "required" :false
-  }, 
-  "REMOVE_BG_KEY": {
-    "description": "Please put your REMOVE BG KEY here.Get it from removeBg.com ",
-    "value": "",
-    "required" :false
+       "value": "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",
+       "required" :false
   },
   "MONGODB_URI": {
-    "description": "Put your own Mongodb key. Its a secret String for Mongodb Connection.(Required)",
-    "value": ""
+    "description": "A secret String for Mongodb Connection.(Required),change for better experience",
+    "value": "mongodb://uufpxy0mfyeykbrxkjpk:m1b0dsDODVFWlBy3AF3@bufirembtiksxw6ni25m-mongodb.services.clever-cloud.com:2533/bufirembtiksxw6ni25m"
   },
-  "MODE": {
-    "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-    "value": "private"
+    "THEME": {
+    "description": "Put the theme name you want to use. Avilable themes are BLAST-MD,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
+     "value": "BLAST-MD"
   },
-  "AUTO_REACTION": {
-    "description": "Available option : cmd(react only cmds) | all (all emojis) | true (facial + hearts emojies)    ",
-    "value": "false",
-    "required": false 
+    "WORKTYPE": {
+  "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
+         "value": "public"
   },
-  "PACK_NAME": {
-    "description": "Put Sticker Pack_Name.",
-    "value": "",
-    "required": false 
+      "AUTO_REACTION": {
+    "description": "Reacts emoji to all commands.",
+     "value": "false",
+     "required": false 
   },
-  "PACK_AUTHER": {
-    "description": "Put Sticker Author_Name.",
-    "value": "𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀",
-    "required": false 
+  "PACK_INFO": {
+    "description": "Put packname;authorname.",
+     "value": "WASI MD",
+     "required": false 
+  },
+  "heroku": {
+    "description": "Weather it is on heroku or not",
+     "value": "true",
+     "required": false 
   }
 },
-
-"addons": [
-		{
-			"plan": "heroku-postgresql"
+"formation": {
+		"worker": {
+			"quantity": 1,
+			"size": "basic"
 		}
-	]
- 
+	}
 }
+	
