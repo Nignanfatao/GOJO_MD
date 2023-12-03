@@ -2,7 +2,8 @@
   "name": "GOJO_MD",
   "description": "A Whatsapp bot built in NodeJs to make experience better\n\t if Any Problem :https://youtube.com/@kenzo3146?si=Ws5QRw863teq6N4z",
   "logo": "https://i.imgur.com/mVpQClk.jpg",
- "GOJO-MD", "keywords": ["whatsappbot", "suhailMd", "suhail Md Wa bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
+  "repository": "https://github.com/Toge123456/GOJO_MD/tree/main",
+ "GOJO-MD", "keywords": ["whatsappbot", "GOJO_MD", "GOJO MD Wa bot", "GOJO_MD", "GOJOMdWhatsaooBot", "GOJOWaBot","GOJOMD","GOJO Md Whatsapp Bot","multi device"],
   "success_url": "/",
   "stack": "container",
 "env": {
