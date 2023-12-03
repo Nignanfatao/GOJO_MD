@@ -1,14 +1,14 @@
 {
-  "name": "WASI TECH",
+  "name": "GOJO_MD",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://telegra.ph/file/aad326f954d80af09a7d7.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "Wasi tech", "Secktor","Whatsapp bot","theme bot","multi device","baileys","Suhail md"],
+  "logo": "https://i.imgur.com/TMczJfp.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "GOJO_MD", "Secktor","Whatsapp bot","theme bot","multi device","baileys","Suhail md"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "WASITECH"
+      "value": "𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀"
   },
   "ALIVE_MESSAGE": {
     "description": "Alive message for bot",
@@ -32,7 +32,7 @@
 },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://telegra.ph/file/aad326f954d80af09a7d7.jpg"
+     "value": "https://i.imgur.com/whbgk9S.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -54,7 +54,7 @@
      "value": "true"
     },
     "SUDO": {
-    "description": "PUT OWNER NUMBER NOTE:remove the + and must be in international form eg: 923192173398",
+    "description": "PUT OWNER NUMBER NOTE:remove the + and must be in international form eg: 17245423663",
      "required"  :false
     },
       "READ_MESSAGE": {
@@ -72,7 +72,7 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "923192173398"
+       "value": "17245423663"
   },
    "SESSION_ID": {
     "description": "Please put your SESSION_ID here"
@@ -87,8 +87,8 @@
     "value": "mongodb://uufpxy0mfyeykbrxkjpk:m1b0dsDODVFWlBy3AF3@bufirembtiksxw6ni25m-mongodb.services.clever-cloud.com:2533/bufirembtiksxw6ni25m"
   },
     "THEME": {
-    "description": "Put the theme name you want to use. Avilable themes are BLAST-MD,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
-     "value": "BLAST-MD"
+    "description": "Put the theme name you want to use. Avilable themes are GOJO_MD,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
+     "value": "GOJO_MD"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
@@ -101,7 +101,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "WASI MD",
+     "value": "GOJO WAT BOT",
      "required": false 
   },
   "heroku": {
